@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dante-apps-docs/static/css/main.51aef2c9.chunk.css",
+    "main.js": "/dante-apps-docs/static/js/main.1ce96dce.chunk.js",
+    "main.js.map": "/dante-apps-docs/static/js/main.1ce96dce.chunk.js.map",
+    "runtime-main.js": "/dante-apps-docs/static/js/runtime-main.fe54f977.js",
+    "runtime-main.js.map": "/dante-apps-docs/static/js/runtime-main.fe54f977.js.map",
+    "static/js/2.b219753e.chunk.js": "/dante-apps-docs/static/js/2.b219753e.chunk.js",
+    "static/js/2.b219753e.chunk.js.map": "/dante-apps-docs/static/js/2.b219753e.chunk.js.map",
+    "index.html": "/dante-apps-docs/index.html",
+    "precache-manifest.07f5119604bec20764744a00b1b8cada.js": "/dante-apps-docs/precache-manifest.07f5119604bec20764744a00b1b8cada.js",
+    "service-worker.js": "/dante-apps-docs/service-worker.js",
+    "static/css/main.51aef2c9.chunk.css.map": "/dante-apps-docs/static/css/main.51aef2c9.chunk.css.map"
+  }
+}
